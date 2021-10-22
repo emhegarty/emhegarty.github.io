@@ -1,0 +1,33 @@
+@media(min-width:760px){
+	.container-1 {
+		justify-content: center;
+		margin: 10px;
+		border: 3px solid #333;
+		background-color: yellow;
+		display:flex;
+		flex-basis: 100%;
+	}
+	.container-2 {
+		justify-content: space-around;
+		flex-basis: 100%;
+		display: flex;
+	}
+}
+.subbox-1 {
+	flex: 1;
+	margin: 10px;
+	border: 3px solid #333;
+	background-color: red;
+}
+.subbox-2 {
+	flex: 1;
+	margin: 10px;
+	border: 3px solid #333;
+	background-color: blue;
+}
+.subbox-3 {
+	flex: 1;
+	margin: 10px;
+	border: 3px solid #333;
+	background-color: green;
+}
