@@ -1,0 +1,13 @@
+body{
+	background-color:#999;
+	text-align:center;
+	color:green;
+}
+.row{
+	margin-top:100px;
+	min-height:100px;
+	justify-content:space-between;
+}
+.boxshade{
+	background-color:white;
+}
